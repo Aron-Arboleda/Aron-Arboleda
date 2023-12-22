@@ -9,7 +9,10 @@
   <a href="https://www.instagram.com/aron.arboleda">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Aron-Arboleda&style=flat-square&color=blue" alt="views count"/>
 </div>
+
 
 <h1 align="center">
   i see you
