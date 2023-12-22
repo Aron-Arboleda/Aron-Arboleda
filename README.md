@@ -30,10 +30,10 @@
 ### :deciduous_tree: About Me :
 
 Currently a compsci student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
-- :snake: Python is the first language i've studied, i learned the basics of programming, making conditions, loops, recursions, OOP, and etc.
-- :coffee: Then uni started and Java was the language we've used, i studied the language as well and i've learned in-depth OOP with it.
-- :yellow_circle::orange_circle::large_blue_circle: I continued to explore the different fields of programming, i came across web-programming, learned HTML, CSS, and Basics of Javascript.
-- :keyboard: Even though i have only learned the basics of these languages, i've built programs and had fun building them. Programming may be challenging in general but programming can be fun and beautiful too <3
+- :snake: Python was the first language I studied, where I learned the basics of programming, including conditions, loops, recursions, and object-oriented programming (OOP).
+- :coffee: When university started, Java became the language of choice. I delved into Java, gaining in-depth knowledge of OOP.
+- :yellow_circle::orange_circle::large_blue_circle: As I continued exploring different programming fields, I ventured into web development. I picked up HTML, CSS, and the basics of JavaScript.
+- :keyboard: Despite having only mastered the basics of these languages, I found joy in building programs. Programming may be challenging in general but it can be a beautiful endeavor as well <3
 
 ---
 
