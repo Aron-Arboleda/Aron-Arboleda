@@ -4,10 +4,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.facebook.com/arboleda.aron">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://www.instagram.com/aron.arboleda">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/750332753161224209">
+    <img src="https://img.shields.io/badge/Discord-indigo?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Aron-Arboleda&style=flat-square&color=blue" alt="views count"/>
