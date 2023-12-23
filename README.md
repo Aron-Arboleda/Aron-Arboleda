@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif)](https://rishavchanda.io)
 <h1 align="center">Halllluuu 👋, I'm Aron Arboleda</h1>
 <h3 align="center">A Computer Science student from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
+<img align="right" alt="Coding" width="400" src="animatedGIF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aron-arboleda&label=Profile%20views&color=0e75b6&style=flat" alt="aron-arboleda" /> </p>
 
