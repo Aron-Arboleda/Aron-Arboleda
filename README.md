@@ -40,5 +40,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aron-arboleda&" alt="aron-arboleda" /></p>
 
+<p>Credits to Readme <a href="https://www.youtube.com/watch?v=G-EGDH50hGE&t=386s" target="blank">Guide</a> & <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="blank">Design Generator</a>.</p>
 
 ---
