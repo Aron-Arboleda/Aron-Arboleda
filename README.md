@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aron-arboleda&label=Profile%20views&color=0e75b6&style=flat" alt="aron-arboleda" /> </p>
 
-- 🔭 I’m currently working on [learning computers from the ground-up](https://www.goodreads.com/book/show/56526652-how-computers-really-work)
+- 🔭 I’m currently working on **developing desktop applications** and figuring out [how computers really work](https://www.goodreads.com/book/show/56526652-how-computers-really-work)
 
-- 🌱 I’m currently learning **Visual Basic**
+- 🌱 I’m currently learning **Visual Basic** (because of uni)
 
 - 👯 I’m looking to collaborate on **making useful sites/apps to automate daily tasks and endeavors**
 
