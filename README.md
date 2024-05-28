@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif)](https://rishavchanda.io)
 <h1 align="center">hiiii 👋</h1>
 <h3 align="center">i'm a compsci student from the Philippines</h3>
-<h3 align="center">(currently accepting commisions)</h3>
+<h3 align="center">(currently accepting commissions)</h3>
 <img align="right" alt="Coding" width="400" src="animatedGIF.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aron-arboleda&label=Profile%20views&color=0e75b6&style=flat" alt="aron-arboleda" /> </p>
