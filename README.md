@@ -62,11 +62,21 @@
 
 <hr/>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Aron-Arboleda/Aron-Arboleda/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aron-arboleda&show_icons=true&locale=en" alt="aron-arboleda" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aron-arboleda&" alt="aron-arboleda" />
+  <img width=367 src="https://github-readme-stats.vercel.app/api?username=aron-arboleda&show_icons=true&locale=en&border_radius=10&rank_icon=github" alt="aron-arboleda" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aron-arboleda&border_radius=10" alt="aron-arboleda" />
   <img width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aron-arboleda&show_icons=true&langs_count=8&locale=en&layout=compact&border_radius=10&exclude_repo=github-readme-stats" alt="aron-arboleda" />
 </div>
 <br/>
