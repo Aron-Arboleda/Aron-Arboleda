@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **developing desktop applications** and figuring out [how computers really work](https://www.goodreads.com/book/show/56526652-how-computers-really-work)
 
-- 🌱 I’m currently learning **Visual Basic** (because of uni)
+- 🌱 I’m currently learning **Godot**
 
 - 👯 I’m looking to collaborate on **making useful sites/apps to automate daily tasks and endeavors**
 
@@ -78,9 +78,21 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
-  <img width=367 src="https://github-readme-stats.vercel.app/api?username=aron-arboleda&show_icons=true&locale=en&border_radius=10&rank_icon=github" alt="aron-arboleda" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aron-arboleda&border_radius=10" alt="aron-arboleda" />
-  <img width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aron-arboleda&show_icons=true&langs_count=8&locale=en&layout=compact&border_radius=10&exclude_repo=github-readme-stats" alt="aron-arboleda" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aron-arboleda&show_icons=true&locale=en&border_radius=10&rank_icon=github&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aron-arboleda&show_icons=true&locale=en&border_radius=10&rank_icon=github" />
+    <img width=367 alt="aron-arboleda-stats" src="https://github-readme-stats.vercel.app/api?username=aron-arboleda&show_icons=true&locale=en&border_radius=10&rank_icon=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aron-arboleda&border_radius=10&theme=github_dark_blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=aron-arboleda&border_radius=10" />
+    <img width=390 alt="aron-arboleda-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aron-arboleda&border_radius=10" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=aron-arboleda&show_icons=true&langs_count=8&locale=en&layout=compact&border_radius=10&exclude_repo=github-readme-stats&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=aron-arboleda&show_icons=true&langs_count=8&locale=en&layout=compact&border_radius=10&exclude_repo=github-readme-stats" />
+    <img width=340 alt="languages-used-aron-arboleda" src="https://github-readme-stats.vercel.app/api/top-langs?username=aron-arboleda&show_icons=true&langs_count=8&locale=en&layout=compact&border_radius=10&exclude_repo=github-readme-stats" />
+  </picture>
 </div>
 <br/>
 <hr/>
