@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif)](https://rishavchanda.io)
+![MasterHead](bannerImage.gif)
 <h1 align="center">hiiii 👋</h1>
 <h3 align="center">i'm a compsci student from the Philippines</h3>
 <h3 align="center">(currently accepting commissions)</h3>
@@ -96,4 +96,10 @@
 </div>
 <br/>
 <hr/>
-<p>Credits to Readme <a href="https://www.youtube.com/watch?v=eHaXw8Bd_ms&t=631s" target="blank">Guide</a> & <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="blank">Design Generator</a>.</p>
+<h3>Credits</h3>
+
+- Readme <a href="https://www.youtube.com/watch?v=eHaXw8Bd_ms&t=631s" target="_blank" rel="noreferrer">Guide</a> & <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="_blank" rel="noreferrer">Design Generator</a>.
+
+- <a href="https://www.patreon.com/posts/something-gif-19601461?epik=dj0yJnU9YlMyV0JJOExYQ0Y1ajBEUDdfV1pYQkRuVTl6UGxGQWEmcD0wJm49RzlwbUJYLXI5ZTVVZHJCRHRvRm9wdyZ0PUFBQUFBR1dObFYw" target="_blank" rel="noreferrer">Banner Image</a>
+
+- <a href="https://ph.pinterest.com/pin/578431145917172088/" target="_blank" rel="noreferrer">Armored Knight</a> pixel animation
