@@ -10,7 +10,7 @@
 
 - 📖 I’m currently reading ["How AI Works" by Ronald T. Kneusel](https://www.goodreads.com/book/show/195475515-how-ai-works)
 
-- 👯 I’m looking to collaborate on **making useful sites/apps to automate daily tasks and endeavors**
+- 👯 I’m looking to collaborate on **making useful apps to automate daily tasks and endeavors**
 
 - 📫 How to reach me **aronrez62@gmail.com**
 
