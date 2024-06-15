@@ -6,9 +6,9 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aron-arboleda&label=Profile%20views&color=0e75b6&style=flat" alt="aron-arboleda"/> </p>
 
-- 🔭 I’m currently working on **developing desktop applications** and figuring out [how computers really work](https://www.goodreads.com/book/show/56526652-how-computers-really-work)
+- ⌨ I’m currently working on **developing desktop applications** 
 
-- 🌱 I’m currently learning **Godot**
+- 📖 I’m currently reading ["How AI Works" by Ronald T. Kneusel](https://www.goodreads.com/book/show/195475515-how-ai-works)
 
 - 👯 I’m looking to collaborate on **making useful sites/apps to automate daily tasks and endeavors**
 
