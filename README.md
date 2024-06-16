@@ -6,7 +6,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aron-arboleda&label=Profile%20views&color=0e75b6&style=flat" alt="aron-arboleda"/> </p>
 
-- ⌨ I’m currently working on **developing desktop applications** 
+- ⌨ I’m currently learning **backend web development** 
 
 - 📖 I’m currently reading ["How AI Works" by Ronald T. Kneusel](https://www.goodreads.com/book/show/195475515-how-ai-works)
 
