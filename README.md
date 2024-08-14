@@ -6,7 +6,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aron-arboleda&label=Profile%20views&color=0e75b6&style=flat" alt="aron-arboleda"/> </p>
 
-- ⌨ I’m currently learning **backend web development** 
+- ⌨ I’m currently learning **artificial intelligence with python and AI toolkits** 
 
 - 👯 I’m looking to collaborate on **making useful apps to automate daily tasks and endeavors**
 
