@@ -4,13 +4,6 @@
 <h3 align="center">(currently accepting commissions)</h3>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aron-arboleda&label=Profile%20views&color=0e75b6&style=flat" alt="aron-arboleda"/> </p>
-
-- ⌨ I’m currently learning **artificial intelligence with python and AI toolkits** 
-
-- 👯 I’m looking to collaborate on **making useful apps to automate daily tasks and endeavors**
-
-- 📫 How to reach me **aronrez62@gmail.com**
 
 <br>
 <div align="center"> 
@@ -41,7 +34,7 @@
     <a href="https://visualstudio.microsoft.com/#vs-section" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git" width="40" height="40"/> </a>
-  <h4>For Desktop Applications:</h4>
+  <h4>Desktop Applications Development:</h4>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
     <a href="https://launch4j.sourceforge.net/" target="_blank" rel="noreferrer"> <img src="https://www.zwodnik.com/media/cache/a0/0d/a00d9b8b537c2d3aaf59731ab2d08d3b.png" alt="launch4j" width="40" height="40"/> </a>
     <a href="https://jrsoftware.org/isinfo.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Inno_Setup_icon.png" alt="innosetup" width="40" height="40"/> </a>
@@ -50,11 +43,12 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/800px-ESLint_logo.svg.png" alt="html5" width="45" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrq4Je7z6sTWiUmCy2ROVBWjrkv67wBxhDA&s" alt="html5" width="40" height="40"/> </a>
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="html5" width="40" height="40"/> </a>
-    <a href="https://vitest.dev/" target="_blank" rel="noreferrer"> <img src="https://vitest.dev/logo-shadow.svg" alt="jest" width="40" height="40"/> </a> 
     <a href="https://pages.github.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AlWXrRzS--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/3uy5od7tw2jf4fh7ldlv.jpeg" alt="git" width="40" height="40"/> </a>
-  <h4>Automation:</h4>
+  <h4>Building AI:</h4>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </div>
 
