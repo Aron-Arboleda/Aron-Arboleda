@@ -1,7 +1,6 @@
 ![MasterHead](bannerImage.gif)
 <h1 align="center">hiiii 👋</h1>
-<h3 align="center">i'm a compsci student from the Philippines</h3>
-<h3 align="center">(currently accepting commissions)</h3>
+<h3 align="center">Currently a computer science student from the Philippines</h3>
 
 <br>
 
