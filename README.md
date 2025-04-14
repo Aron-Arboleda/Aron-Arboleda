@@ -49,20 +49,19 @@
 
 </div>
 
-<hr/>
+
 
 <div align="left">
   <h2>🐍 Bisyo</h2>
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aron-Arboleda/Aron-Arboleda/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aron-Arboleda/Aron-Arboleda/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Aron-Arboleda/Aron-Arboleda/output/github-contribution-grid-snake.svg" />
   </picture>
-  <br/><br/>
+  <br/>
 </div>
 
-<hr/>
+
 
 <h2 align="left">⚡ Fleks</h2>
 <br/>
@@ -103,7 +102,7 @@
   </a>
 </div>
 
-<hr/>
+
 <h3>Credits</h3>
 
 - Readme <a href="https://www.youtube.com/watch?v=eHaXw8Bd_ms&t=631s" target="_blank" rel="noreferrer">Guide</a> & <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="_blank" rel="noreferrer">Design Generator</a>.
