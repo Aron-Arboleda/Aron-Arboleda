@@ -1,61 +1,58 @@
 ![MasterHead](bannerImage.gif)
-<h1 align="center">hiiii 👋</h1>
-<h3 align="center">Currently a computer science student from the Philippines</h3>
+<h1 align="center">dev kunwari</h1>
+<h3 align="center">compsci student, need to touch grass fr fr</h3>
 
 <br>
 
-<br>
-<div align="center"> 
-  <a href="mailto:arboleda.aronrez@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/aron-arboleda-74927a229/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://discordapp.com/users/750332753161224209" target="_blank">
-     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://fb.com/arboleda.aron" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/aron.arboleda" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
+<h2 align="left">🛠 Toolbaks</h2>
+
+<div align="left">
+<p>
+<!-- 🔵 Blue-Themed Badges -->
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="Inno Setup" src="https://img.shields.io/badge/-Inno%20Setup-00B3E0?style=flat-square&logo=inno-setup&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+<!-- 🟣 Purple-Themed Badges -->
+<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img alt="Visual Basic" src="https://img.shields.io/badge/-Visual%20Basic-5C2D91?style=flat-square&logo=visual-basic&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS-623092?style=flat-square&logo=css3&logoColor=white" />
+
+<!-- 🟢 Green-Themed Badges -->
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+
+<!-- 🔴 Red-Themed Badges -->
+<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Launch4j" src="https://img.shields.io/badge/-Launch4j-FF6600?style=flat-square&logo=launch4j&logoColor=white" />
+<img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+
+<!-- 🟠 Orange-Themed Badges -->
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+
+<!-- ⚫ Black/Dark-Themed Badges -->
+<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+
+
+
+
+
+</p>
+
 </div>
 
 <hr/>
-<h2 align="center">🛠 Languages and Tools that i use ⚔</h2>
 
-<img align="right" alt="Coding" width="400" src="animatedGIF.gif">
-<div align="center">
-  <h4>IDEs & Version Control:</h4>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/0aea25bb-27bb-427f-8d65-f999bf0cba67.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://visualstudio.microsoft.com/#vs-section" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="git" width="40" height="40"/> </a>
-  <h4>Desktop Applications Development:</h4>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://launch4j.sourceforge.net/" target="_blank" rel="noreferrer"> <img src="https://www.zwodnik.com/media/cache/a0/0d/a00d9b8b537c2d3aaf59731ab2d08d3b.png" alt="launch4j" width="40" height="40"/> </a>
-    <a href="https://jrsoftware.org/isinfo.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Inno_Setup_icon.png" alt="innosetup" width="40" height="40"/> </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="git" width="40" height="40"/> </a>
-  <h4>Web Development:</h4>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="mysql" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9eimO5lZLpyM-qYudMVu6KTPj4U2RL715g&s" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="php" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrq4Je7z6sTWiUmCy2ROVBWjrkv67wBxhDA&s" alt="html5" width="40" height="40"/> </a>
-    <a href="https://vite.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" alt="html5" width="40" height="40"/> </a>
-
-  <h4>Building AI:</h4>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="left">
+  <h2>🐍 Bisyo</h2>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aron-Arboleda/Aron-Arboleda/output/github-contribution-grid-snake-dark.svg" />
@@ -67,7 +64,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Fleks</h2>
 <br/>
 <div align="center">
   <picture>
@@ -87,11 +84,28 @@
   </picture>
 </div>
 <br/>
+<h2 align="left">🏠 Fallow</h2>
+<div align="left"> 
+  <a href="mailto:arboleda.aronrez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/aron-arboleda-74927a229/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://discordapp.com/users/750332753161224209" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://fb.com/arboleda.aron" target="_blank">
+     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/aron.arboleda" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-8134AF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 <hr/>
 <h3>Credits</h3>
 
 - Readme <a href="https://www.youtube.com/watch?v=eHaXw8Bd_ms&t=631s" target="_blank" rel="noreferrer">Guide</a> & <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="_blank" rel="noreferrer">Design Generator</a>.
 
 - <a href="https://www.patreon.com/posts/something-gif-19601461?epik=dj0yJnU9YlMyV0JJOExYQ0Y1ajBEUDdfV1pYQkRuVTl6UGxGQWEmcD0wJm49RzlwbUJYLXI5ZTVVZHJCRHRvRm9wdyZ0PUFBQUFBR1dObFYw" target="_blank" rel="noreferrer">Banner Image</a>
-
-- <a href="https://ph.pinterest.com/pin/578431145917172088/" target="_blank" rel="noreferrer">Armored Knight</a> pixel animation
