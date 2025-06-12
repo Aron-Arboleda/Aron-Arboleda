@@ -1,10 +1,10 @@
 ![MasterHead](bannerImage.gif)
-<h1 align="center">dev kunwari</h1>
-<h3 align="center">compsci student, need to touch grass fr fr</h3>
+<h1 align="center">Hiiii! 👋</h1>
+<h3 align="center">I'm currently a computer science student</h3>
 
 <br>
 
-<h2 align="left">🛠 Toolbaks</h2>
+<h2 align="left">🛠 Tools I Use</h2>
 
 <div align="left">
 <p>
@@ -17,7 +17,6 @@
 <img alt="Inno Setup" src="https://img.shields.io/badge/-Inno%20Setup-00B3E0?style=flat-square&logo=inno-setup&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
 <!-- 🟣 Purple-Themed Badges -->
 <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -26,7 +25,6 @@
 
 <!-- 🟢 Green-Themed Badges -->
 <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 <!-- 🔴 Red-Themed Badges -->
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -36,10 +34,6 @@
 <!-- 🟠 Orange-Themed Badges -->
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-
-<!-- ⚫ Black/Dark-Themed Badges -->
-<img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
 
 
 
@@ -52,7 +46,7 @@
 
 
 <div align="left">
-  <h2>🐍 Bisyo</h2>
+  <h2>🐍 Contributions</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aron-Arboleda/Aron-Arboleda/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aron-Arboleda/Aron-Arboleda/output/github-contribution-grid-snake.svg" />
@@ -63,7 +57,7 @@
 
 
 
-<h2 align="left">⚡ Fleks</h2>
+<h2 align="left">⚡ Stats</h2>
 <br/>
 <div align="center">
   <picture>
@@ -83,7 +77,7 @@
   </picture>
 </div>
 <br/>
-<h2 align="left">🏠 Fallow</h2>
+<h2 align="left">🏠 Socials</h2>
 <div align="left"> 
   <a href="mailto:arboleda.aronrez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
