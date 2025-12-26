@@ -57,7 +57,7 @@
 
 
 
-<h2 align="left">⚡ Stats</h2>
+<!-- <h2 align="left">⚡ Stats</h2>
 <br/>
 <div align="center">
   <picture>
@@ -75,7 +75,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=aron-arboleda&show_icons=true&langs_count=8&locale=en&layout=compact&border_radius=10&exclude_repo=github-readme-stats" />
     <img width=340 alt="languages-used-aron-arboleda" src="https://github-readme-stats.vercel.app/api/top-langs?username=aron-arboleda&show_icons=true&langs_count=8&locale=en&layout=compact&border_radius=10&exclude_repo=github-readme-stats" />
   </picture>
-</div>
+</div> -->
 <br/>
 <h2 align="left">🏠 Socials</h2>
 <div align="left"> 
