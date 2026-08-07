@@ -1,6 +1,6 @@
 ![MasterHead](bannerImage.gif)
 <h1 align="center">Hiiii! 👋</h1>
-<h3 align="center">I'm currently a computer science student</h3>
+<h3 align="center">I'm a Software Developer and a Computer Science Graduate</h3>
 
 <br>
 
